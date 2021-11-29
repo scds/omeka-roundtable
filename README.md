@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+Building Digital Exhibits: A Roundtable Celebrating the Launch of Omeka S at McMaster
+Materials for the DMDS workshop: Building Digital Exhibits: A Roundtable Celebrating the Launch of Omeka S at McMaster
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/omeka-roundtable) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Amanda Montague, Karen Balcom, Rachel Manes, Devon Mordell, Myron Groover, and Nina Sartor
+- Content edited for online use by Veronica Litt
+- Online pages created by Veronica Litt
 
 
   
