@@ -4,27 +4,14 @@ title: Preparation
 nav_order: 2
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-
-<!--
-
 # Workshop preparation 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+This roundtable is for anyone, regardless of whether they're an experenced Omeka user or someone who's new to digital scholarship. If you'd like to prepare by looking at some sample Omeka sites, you can do so at the links below: [See Omeka in Acton](#view-sample-sites) 
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+## View Sample Sites
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+[African Brilliance: A Diplomat's 60 Years of Collecting] (https://exhibitions.psu.edu/s/african-brilliance/page/splash![image](https://user-images.githubusercontent.com/90873121/143939707-41c9c35c-242b-42a2-b077-ea55314c17bf.png)
+[Speak Out: Documenting the History of the LGBTQIA+ Community at Dartmouth College](https://exhibits.library.dartmouth.edu/s/SpeakOut/page/home![image](https://user-images.githubusercontent.com/90873121/143939757-e93dcbc6-8b52-488a-b3ee-563ba78f4012.png)
+[Shining a Light: 21st Century Music from Underrepresented Composers](https://exhibits.library.umkc.edu/s/shining-a-light/page/home![image](https://user-images.githubusercontent.com/90873121/143939793-aeaae637-b6f5-47c5-9647-dff901cdad69.png)
+[Constructing Gender: The Origins of Michigan's Union and League](https://exhibits.bentley.umich.edu/s/constructing_gender/page/introduction![image](https://user-images.githubusercontent.com/90873121/143939830-b6164cad-b8a8-4991-8f0d-f1fd1e3c15d2.png)
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
-
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
-
--->
