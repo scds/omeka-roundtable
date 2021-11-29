@@ -1,4 +1,4 @@
-Building Digital Exhibits with Omeka S
+Omeka S Roundtable
 Materials for the DMDS workshop: Building Digital Exhibits: A Roundtable Celebrating the Launch of Omeka S at McMaster
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/omeka-roundtable) with GitHub Pages   
