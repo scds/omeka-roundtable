@@ -5,15 +5,11 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/OmekaSPoster.jpg" alt="Workshop Title Slide" width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Building Digital Exhibits: A Roundtable Celebrating the Launch of Omeka S at McMaster. 
 
-# Welcome to Data Visualization with Tableau. 
+Learn about the variety of uses and possibilities for digital scholarly exhibits with the digital exhibit platform Omeka S. In this roundtable. members of the McMaster communty will share some of their experences working with Omeka in classroom projects, research dissemination, organizing digital collections, and more.
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
-
-Proceed to the [Preparation](preparation) page to get started.
--->
+Proceed to the [Preparation](preparation) page to find out if Omeka is the right tool for your next classroom or research project! 
 
